@@ -23,3 +23,4 @@ for i in range (1, numTeams + 1):
     print pick + 1
 
 print ("Good luck this season!")
+ 
